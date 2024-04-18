@@ -20,7 +20,7 @@ This project implements a custom cursor effect using JavaScript. The custom curs
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/custom-cursor-project.git
+   git clone https://github.com/your-username/Custom-Cursor.git
    ```
 
 2. Open the `index.html` file in your web browser.
