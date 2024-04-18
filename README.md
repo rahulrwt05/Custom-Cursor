@@ -4,9 +4,9 @@ This project implements a custom cursor effect using JavaScript. The custom curs
 
 ## Demo
 
-[Link to Live Demo]() 
+[Link to Live Demo](https://rahulrwt05.github.io/Custom-Cursor/) 
 
-![Custom Cursor Project Demo](demo-screenshot.png)
+![Custom Cursor Project Demo](https://github.com/rahulrwt05/30-days-of-js/blob/main/images/custom_cursor.jpg)
 
 ## Features
 
